@@ -1,0 +1,38 @@
+body {
+	padding-top: 75px;
+	padding-bottom: 40px;
+}
+.navbar .nav {
+	padding-top: 3px;
+	font-size: 1.3em;
+}
+.hero-unit p {
+	font-size: 1.1em;
+	line-height: 1.5;
+}
+.hero-unit h1 {
+	font-size: 3em;
+	margin-bottom: .5em;
+}
+#download {
+	margin-top: 2em;
+	margin-bottom: -1.5em;
+}
+.sidebar-nav { padding: 9px 0; }
+ol.legal li { line-height: 1.75; }
+ol.alpha { list-style: lower-roman; }
+ol.legal h4 { margin: 2em 0 1em; }
+.pdf {
+	font-weight: bold;
+	text-align: right;
+	margin-bottom: 1em;
+}
+.error {
+	font-weight: bold;
+	color: #c00;
+}
+#social { line-height: 2; }
+#twitter { background: url(sprites/social.gif) no-repeat 0px 0px; }
+#facebook { background: url(sprites/social.gif) no-repeat 0px -32px; }
+#youtube { background: url(sprites/social.gif) no-repeat 0px -64px; }
+#twitter, #facebook, #youtube { padding-left: 20px; }
